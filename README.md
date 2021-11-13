@@ -1,4 +1,4 @@
-# SMTP Python with logs
+# SMTP Python
 This was a project for my Python Classes 1st semester, my first tiny project.
 The task was to code a SMTP in Python only using smtplib, making it as easy as possible for the user.
 For that, the project uses a lot of input functions in order to attend to that need.
